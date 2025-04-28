@@ -1,331 +1,331 @@
-State/Region Name,District Name,Township Name,Both sexes,Male,Female,Sex ratio
-Kachin,Myitkyina,Myitkyina,"317,604","154,047","163,557",94.2
-Kachin,Myitkyina,Waingmaw,"125,544","62,465","63,079",99.0
-Kachin,Myitkyina,Injangyang,"1,732",946,786,120.4
-Kachin,Myitkyina,Tanai,"60,019","31,979","28,040",114.0
-Kachin,Myitkyina,Chipwi,"20,039","10,300","9,739",105.8
-Kachin,Myitkyina,Tsawlaw,"6,518","3,351","3,167",105.8
-Kachin,Mohnyin,Mohnyin,"209,292","101,598","107,694",94.3
-Kachin,Mohnyin,Mogaung,"132,608","63,501","69,107",91.9
-Kachin,Mohnyin,Hpakant,"331,708","210,723","120,985",174.2
-Kachin,Bhamo,Bhamo,"135,877","66,718","69,159",96.5
-Kachin,Bhamo,Shwegu,"94,784","47,174","47,610",99.1
-Kachin,Bhamo,Momauk,"62,914","31,029","31,885",97.3
-Kachin,Bhamo,Mansi,"52,945","26,156","26,789",97.6
-Kachin,Puta-O,Puta-O,"61,075","30,162","30,913",97.6
-Kachin,Puta-O,Sumprabum,"2,546","1,291","1,255",102.9
-Kachin,Puta-O,Machanbaw,"8,858","4,455","4,403",101.2
-Kachin,Puta-O,Khaunglanhpu,"11,655","5,855","5,800",100.9
-Kachin,Puta-O,Nawngmun,"7,123","3,603","3,520",102.4
-Kayah,Loikaw,Loikaw,"128,401","63,109","65,292",96.7
-Kayah,Loikaw,Demoso,"79,201","38,936","40,265",96.7
-Kayah,Loikaw,Hpruso,"29,374","14,437","14,937",96.7
-Kayah,Loikaw,Shadaw,"6,742","3,351","3,391",98.8
-Kayah,Bawlake,Bawlakhe,"10,996","6,072","4,924",123.3
-Kayah,Bawlake,Hpasawng,"25,594","13,906","11,688",119.0
-Kayah,Bawlake,Mese,"6,319","3,402","2,917",116.6
-Kayin,Hpa-An,Hpa-An,"421,575","203,910","217,665",93.7
-Kayin,Hpa-An,Hlaingbwe,"265,883","129,900","135,983",95.5
-Kayin,Hpa-An,Thandaunggyi,"96,052","48,517","47,535",102.1
-Kayin,Hpapun,Hpapun,"35,085","17,983","17,102",105.2
-Kayin,Myawaddy,Myawaddy,"210,540","107,607","102,933",104.5
-Kayin,Kawkareik,Kawkareik,"220,342","105,524","114,818",91.9
-Kayin,Kawkareik,Kyainseikgyi,"254,849","125,686","129,163",97.3
-Chin,Hakha,Hakha,"48,352","23,022","25,330",90.9
-Chin,Hakha,Thantlang,"50,374","24,379","25,995",93.8
-Chin,Falam,Falam,"48,077","23,623","24,454",96.6
-Chin,Falam,Tedim,"87,623","41,927","45,696",91.8
-Chin,Falam,Tonzang,"31,878","15,692","16,186",96.9
-Chin,Mindat,Mindat,"42,600","19,727","22,873",86.2
-Chin,Mindat,Matupi,"51,351","24,151","27,200",88.8
-Chin,Mindat,Kanpetlet,"21,493","10,313","11,180",92.2
-Chin,Mindat,Paletwa,"97,053","46,770","50,283",93.0
-Sagaing,Sagaing,Sagaing,"307,194","143,420","163,774",87.6
-Sagaing,Sagaing,Myinmu,"106,986","48,949","58,037",84.3
-Sagaing,Sagaing,Myaung,"106,411","47,677","58,734",81.2
-Sagaing,Shwebo,Shwebo,"266,807","123,636","143,171",86.4
-Sagaing,Shwebo,Khin-U,"146,457","67,929","78,528",86.5
-Sagaing,Shwebo,Wetlet,"196,216","90,089","106,127",84.9
-Sagaing,Shwebo,Kanbalu,"295,561","139,944","155,617",89.9
-Sagaing,Shwebo,Kyunhla,"104,087","51,125","52,962",96.5
-Sagaing,Shwebo,Ye-U,"118,290","51,422","66,868",76.9
-Sagaing,Shwebo,Tabayin,"140,815","64,396","76,419",84.3
-Sagaing,Shwebo,Taze,"165,110","72,475","92,635",78.2
-Sagaing,Monywa,Monywa,"372,095","171,951","200,144",85.9
-Sagaing,Monywa,Budalin,"123,539","55,106","68,433",80.5
-Sagaing,Monywa,Ayadaw,"155,769","70,734","85,035",83.2
-Sagaing,Monywa,Chaung-U,"105,955","48,456","57,499",84.3
-Sagaing,Katha,Katha,"167,734","82,325","85,409",96.4
-Sagaing,Katha,Indaw,"120,266","56,814","63,452",89.5
-Sagaing,Katha,Tigyaing,"129,955","63,736","66,219",96.3
-Sagaing,Katha,Banmauk,"112,668","57,195","55,473",103.1
-Sagaing,Katha,Kawlin,"145,297","69,782","75,515",92.4
-Sagaing,Katha,Wuntho,"73,395","35,465","37,930",93.5
-Sagaing,Katha,Pinlebu,"111,968","52,393","59,575",87.9
-Sagaing,Kale,Kale,"348,573","167,558","181,015",92.6
-Sagaing,Kale,Kalewa,"56,432","27,715","28,717",96.5
-Sagaing,Kale,Mingin,"104,363","50,171","54,192",92.6
-Sagaing,Tamu,Tamu,"114,869","57,007","57,862",98.5
-Sagaing,Mawlaik,Mawlaik,"51,314","25,055","26,259",95.4
-Sagaing,Mawlaik,Paungbyin,"112,694","53,869","58,825",91.6
-Sagaing,Hkamti,Hkamti,"47,658","26,916","20,742",129.8
-Sagaing,Hkamti,Homalin,"258,206","133,750","124,456",107.5
-Sagaing,Hkamti,Lay Shi,"10,491","5,204","5,287",98.4
-Sagaing,Hkamti,Lahe,"54,357","27,025","27,332",98.9
-Sagaing,Hkamti,Nanyun,"51,980","26,683","25,297",105.5
-Sagaing,Yinmabin,Yinmabin,"141,480","65,974","75,506",87.4
-Sagaing,Yinmabin,Salingyi,"121,808","55,729","66,079",84.3
-Sagaing,Yinmabin,Pale,"144,006","66,809","77,197",86.5
-Sagaing,Yinmabin,Kani,"134,541","62,465","72,076",86.7
-Tanintharyi,Dawei,Dawei,"146,964","70,653","76,311",92.6
-Tanintharyi,Dawei,Launglon,"118,317","55,558","62,759",88.5
-Tanintharyi,Dawei,Thayetchaung,"105,662","50,421","55,241",91.3
-Tanintharyi,Dawei,Yebyu,"122,633","62,441","60,192",103.7
-Tanintharyi,Myeik,Myeik,"284,489","139,592","144,897",96.3
-Tanintharyi,Myeik,Kyunsu,"171,753","87,777","83,976",104.5
-Tanintharyi,Myeik,Palaw,"129,992","63,485","66,507",95.5
-Tanintharyi,Myeik,Tanintharyi,"106,853","54,817","52,036",105.3
-Tanintharyi,Kawthoung,Kawthoung,"140,020","72,163","67,857",106.3
-Tanintharyi,Kawthoung,Bokpyin,"81,718","43,712","38,006",115.0
-Bago,Bago,Bago,"491,434","235,529","255,905",92
-Bago,Bago,Thanatpin,"145,287","69,136","76,151",90.8
-Bago,Bago,Kawa,"197,363","93,804","103,559",90.6
-Bago,Bago,Waw,"176,014","83,699","92,315",90.7
-Bago,Bago,Nyaunglebin,"199,483","94,464","105,019",89.9
-Bago,Bago,Kyauktaga,"251,212","120,024","131,188",91.5
-Bago,Bago,Daik-U,"202,530","96,362","106,168",90.8
-Bago,Bago,Shwegyin,"107,462","53,092","54,370",97.6
-Bago,Taungoo,Taungoo,"262,056","125,142","136,914",91.4
-Bago,Taungoo,Yedashe,"213,593","103,298","110,295",93.7
-Bago,Taungoo,Kyaukkyi,"113,329","54,287","59,042",91.9
-Bago,Taungoo,Phyu,"257,273","121,123","136,150",89
-Bago,Taungoo,Oktwin,"159,828","75,381","84,447",89.3
-Bago,Taungoo,Htantabin,"117,276","55,333","61,943",89.3
-Bago,Pyay,Pyay,"251,643","119,670","131,973",90.7
-Bago,Pyay,Paukkhaung,"124,856","60,941","63,915",95.3
-Bago,Pyay,Padaung,"144,214","69,284","74,930",92.5
-Bago,Pyay,Paungde,"137,561","66,212","71,349",92.8
-Bago,Pyay,Thegon,"130,957","61,807","69,150",89.4
-Bago,Pyay,Shwedaung,"121,671","56,637","65,034",87.1
-Bago,Thayarwady,Thayarwady,"151,104","72,772","78,332",92.9
-Bago,Thayarwady,Letpadan,"177,407","84,396","93,011",90.7
-Bago,Thayarwady,Minhla,"122,491","58,577","63,914",91.6
-Bago,Thayarwady,Okpho,"126,662","60,705","65,957",92
-Bago,Thayarwady,Zigon,"67,523","32,167","35,356",91
-Bago,Thayarwady,Nattalin,"172,141","82,083","90,058",91.1
-Bago,Thayarwady,Monyo,"127,570","60,664","66,906",90.7
-Bago,Thayarwady,Gyobingauk,"117,433","55,749","61,684",90.4
-Magway,Magway,Magway,"289,247","135,103","154,144",87.6
-Magway,Magway,Yenangyaung,"134,227","60,228","73,999",81.4
-Magway,Magway,Chauk,"185,189","82,385","102,804",80.1
-Magway,Magway,Taungdwingyi,"259,860","122,706","137,154",89.5
-Magway,Magway,Myothit,"159,511","74,039","85,472",86.6
-Magway,Magway,Natmauk,"206,996","92,774","114,222",81.2
-Magway,Minbu,Minbu,"188,182","88,262","99,920",88.3
-Magway,Minbu,Pwintbyu,"163,692","76,740","86,952",88.3
-Magway,Minbu,Ngape,"52,142","25,075","27,067",92.6
-Magway,Minbu,Salin,"236,033","108,725","127,308",85.4
-Magway,Minbu,Sidoktaya,"47,526","23,338","24,188",96.5
-Magway,Thayet,Thayet,"104,347","49,385","54,962",89.9
-Magway,Thayet,Minhla,"146,082","73,133","72,949",100.3
-Magway,Thayet,Mindon,"59,357","27,961","31,396",89.1
-Magway,Thayet,Kamma,"75,195","35,854","39,341",91.1
-Magway,Thayet,Aunglan,"235,222","111,765","123,457",90.5
-Magway,Thayet,Sinbaungwe,"117,844","55,789","62,055",89.9
-Magway,Pakokku,Pakokku,"290,139","130,741","159,398",82.0
-Magway,Pakokku,Yesagyo,"215,352","94,353","120,999",78.0
-Magway,Pakokku,Myaing,"225,771","100,854","124,917",80.7
-Magway,Pakokku,Pauk,"171,514","79,030","92,484",85.5
-Magway,Pakokku,Seikphyu,"102,769","46,909","55,860",84.0
-Magway,Gangaw,Gangaw,"133,295","63,420","69,875",90.8
-Magway,Gangaw,Tilin,"48,866","22,859","26,007",87.9
-Magway,Gangaw,Saw,"68,697","32,546","36,151",90.0
-Mandalay,Mandalay,Aungmyaythazan,"265,779","129,959","135,820",95.7
-Mandalay,Mandalay,Chanayethazan,"197,175","93,245","103,930",89.7
-Mandalay,Mandalay,Mahaaungmyay,"241,113","116,903","124,210",94.1
-Mandalay,Mandalay,Chanmyathazi,"283,781","137,528","146,253",94.0
-Mandalay,Mandalay,Pyigyitagon,"237,698","120,794","116,904",103.3
-Mandalay,Mandalay,Amarapura,"237,618","114,481","123,137",93.0
-Mandalay,Mandalay,Patheingyi,"263,725","129,004","134,721",95.8
-Mandalay,Pyinoolwin,Pyinoolwin,"255,508","128,027","127,481",100.4
-Mandalay,Pyinoolwin,Madaya,"258,001","122,879","135,122",90.9
-Mandalay,Pyinoolwin,Singu,"157,585","76,774","80,811",95.0
-Mandalay,Pyinoolwin,Mogoke,"167,149","84,892","82,257",103.2
-Mandalay,Pyinoolwin,Thabeikkyin,"163,702","83,228","80,474",103.4
-Mandalay,Kyaukse,Kyaukse,"257,907","124,539","133,368",93.4
-Mandalay,Kyaukse,Sintgaing,"148,918","71,161","77,757",91.5
-Mandalay,Kyaukse,Myittha,"195,629","92,672","102,957",90.0
-Mandalay,Kyaukse,Tada-U,"138,617","64,754","73,863",87.7
-Mandalay,Myingyan,Myingyan,"276,096","124,100","151,996",81.6
-Mandalay,Myingyan,Taungtha,"216,642","97,161","119,481",81.3
-Mandalay,Myingyan,Natogyi,"177,078","80,848","96,230",84.0
-Mandalay,Myingyan,Kyaukpadaung,"261,908","116,625","145,283",80.3
-Mandalay,Myingyan,Ngazun,"124,233","56,669","67,564",83.9
-Mandalay,Nyaung-U,Nyaung-U,"239,947","109,476","130,471",83.9
-Mandalay,Yamethin,Yamethin,"258,091","125,368","132,723",94.5
-Mandalay,Yamethin,Pyawbwe,"260,293","119,235","141,058",84.5
-Mandalay,Meiktila,Meiktila,"309,663","142,787","166,876",85.6
-Mandalay,Meiktila,Mahlaing,"139,427","63,581","75,846",83.8
-Mandalay,Meiktila,Thazi,"202,680","95,463","107,217",89.0
-Mandalay,Meiktila,Wundwin,"229,760","106,214","123,546",86.0
-Mon,Mawlamyine,Mawlamyine,"289,388","139,026","150,362",92.5
-Mon,Mawlamyine,Kyaikmaraw,"195,810","92,746","103,064",90.0
-Mon,Mawlamyine,Chaungzon,"122,126","55,596","66,530",83.6
-Mon,Mawlamyine,Thanbyuzayat,"170,536","81,449","89,087",91.4
-Mon,Mawlamyine,Mudon,"190,737","89,976","100,761",89.3
-Mon,Mawlamyine,Ye,"263,624","128,883","134,741",95.7
-Mon,Thaton,Thaton,"238,106","116,394","121,712",95.6
-Mon,Thaton,Paung,"218,459","105,371","113,088",93.2
-Mon,Thaton,Kyaikto,"184,532","90,031","94,501",95.3
-Mon,Thaton,Bilin,"181,075","87,920","93,155",94.4
-Rakhine,Sittwe,Sittwe,"147,899","70,470","77,429",91.0
-Rakhine,Sittwe,Ponnagyun,"129,753","59,979","69,774",86.0
-Rakhine,Sittwe,Pauktaw,"145,957","68,195","77,762",87.7
-Rakhine,Sittwe,Rathedaung,"111,974","50,026","61,948",80.8
-Rakhine,Mrauk-U,Mrauk-U,"189,630","87,674","101,956",86.0
-Rakhine,Mrauk-U,Kyauktaw,"173,100","78,041","95,059",82.1
-Rakhine,Mrauk-U,Minbya,"169,208","78,875","90,333",87.3
-Rakhine,Mrauk-U,Myebon,"137,193","65,359","71,834",91.0
-Rakhine,Maungdaw,Maungdaw,"40,785","21,098","19,687",107.2
-Rakhine,Maungdaw,Buthidaung,"55,545","27,718","27,827",99.6
-Rakhine,Kyaukpyu,Kyaukpyu,"165,352","78,762","86,590",91.0
-Rakhine,Kyaukpyu,Munaung,"56,966","24,957","32,009",78.0
-Rakhine,Kyaukpyu,Ramree,"97,891","44,766","53,125",84.3
-Rakhine,Kyaukpyu,Ann,"119,714","58,823","60,891",96.6
-Rakhine,Thandwe,Thandwe,"133,484","65,122","68,362",95.3
-Rakhine,Thandwe,Toungup,"158,341","77,257","81,084",95.3
-Rakhine,Thandwe,Gwa,"66,015","32,580","33,435",97.4
-Yangon,Yangon (North),Insein,"305,283","146,158","159,125",91.9
-Yangon,Yangon (North),Mingaladon,"331,586","158,259","173,327",91.3
-Yangon,Yangon (North),Hmawbi,"244,607","120,931","123,676",97.8
-Yangon,Yangon (North),Hlegu,"270,741","134,087","136,654",98.1
-Yangon,Yangon (North),Taikkyi,"277,268","134,714","142,554",94.5
-Yangon,Yangon (North),Htantabin,"145,792","71,807","73,985",97.1
-Yangon,Yangon (North),Shwepyithar,"343,526","164,264","179,262",91.6
-Yangon,Yangon (North),Hlaingtharya,"687,867","322,862","365,005",88.5
-Yangon,Yangon (East),Thingangyun,"209,486","98,698","110,788",89.1
-Yangon,Yangon (East),Yankin,"70,946","32,724","38,222",85.6
-Yangon,Yangon (East),South Okkalapa,"161,126","75,547","85,579",88.3
-Yangon,Yangon (East),North Okkalapa,"333,293","156,340","176,953",88.4
-Yangon,Yangon (East),Thaketa,"220,556","107,290","113,266",94.7
-Yangon,Yangon (East),Dawbon,"75,325","36,745","38,580",95.2
-Yangon,Yangon (East),Tamwe,"165,313","74,662","90,651",82.4
-Yangon,Yangon (East),Pazundaung,"48,455","22,131","26,324",84.1
-Yangon,Yangon (East),Botahtaung,"40,995","19,416","21,579",90.0
-Yangon,Yangon (East),Dagon Myothit (South),"371,646","181,140","190,506",95.1
-Yangon,Yangon (East),Dagon Myothit (North),"203,948","96,388","107,560",89.6
-Yangon,Yangon (East),Dagon Myothit (East),"165,628","80,861","84,767",95.4
-Yangon,Yangon (East),Dagon Myothit (Seikkan),"167,448","82,697","84,751",97.6
-Yangon,Yangon (East),Mingalartaungnyunt,"132,494","62,530","69,964",89.4
-Yangon,Yangon (South),Thanlyin,"268,063","130,537","137,526",94.9
-Yangon,Yangon (South),Kyauktan,"167,448","81,456","85,992",94.7
-Yangon,Yangon (South),Thongwa,"157,876","75,492","82,384",91.6
-Yangon,Yangon (South),Kayan,"158,019","75,510","82,509",91.5
-Yangon,Yangon (South),Twantay,"226,836","111,251","115,585",96.3
-Yangon,Yangon (South),Kawhmu,"119,050","58,299","60,751",96.0
-Yangon,Yangon (South),Kungyangon,"111,632","54,107","57,525",94.1
-Yangon,Yangon (South),Dala,"172,857","84,671","88,186",96.0
-Yangon,Yangon (South),Seikgyikanaungto,"34,003","17,068","16,935",100.8
-Yangon,Yangon (South),Cocokyun,"1,940","1,294",646,200.3
-Yangon,Yangon (West),Kyauktada,"29,853","13,777","16,076",85.7
-Yangon,Yangon (West),Pabedan,"33,336","15,171","18,165",83.5
-Yangon,Yangon (West),Lanmadaw,"47,160","20,180","26,980",74.8
-Yangon,Yangon (West),Latha,"25,057","10,728","14,329",74.9
-Yangon,Yangon (West),Ahlone,"55,482","25,551","29,931",85.4
-Yangon,Yangon (West),Kyeemyindaing,"111,514","52,627","58,887",89.4
-Yangon,Yangon (West),Sanchaung,"99,619","43,993","55,626",79.1
-Yangon,Yangon (West),Hlaing,"160,307","75,029","85,278",88.0
-Yangon,Yangon (West),Kamaryut,"84,569","36,958","47,611",77.6
-Yangon,Yangon (West),Mayangone,"198,113","93,392","104,721",89.2
-Yangon,Yangon (West),Dagon,"25,082","11,846","13,236",89.5
-Yangon,Yangon (West),Bahan,"96,732","45,518","51,214",88.9
-Yangon,Yangon (West),Seikkan,"2,826","1,697","1,129",150.3
-Shan,Taunggyi,Taunggyi,"438,056","213,200","224,856",94.8
-Shan,Taunggyi,Nyaungshwe,"189,407","94,537","94,870",99.6
-Shan,Taunggyi,Hopong,"112,348","55,535","56,813",97.8
-Shan,Taunggyi,Hsihseng,"153,032","74,736","78,296",95.5
-Shan,Taunggyi,Kalaw,"186,083","93,092","92,991",100.1
-Shan,Taunggyi,Pindaya,"79,303","38,468","40,835",94.2
-Shan,Taunggyi,Ywangan,"82,532","41,049","41,483",99.0
-Shan,Taunggyi,Lawksawk,"164,730","84,326","80,404",104.9
-Shan,Taunggyi,Pinlaung,"192,257","95,358","96,899",98.4
-Shan,Taunggyi,Pekon,"103,590","52,293","51,297",101.9
-Shan,Loilen,Loilen,"124,557","60,559","63,998",94.6
-Shan,Loilen,Laihka,"48,831","23,646","25,185",93.9
-Shan,Loilen,Nansang,"116,961","59,291","57,670",102.8
-Shan,Loilen,Kunhing,"53,403","26,623","26,780",99.4
-Shan,Loilen,Kyethi,"74,364","35,424","38,940",91.0
-Shan,Loilen,Mongkaing,"74,294","35,122","39,172",89.7
-Shan,Loilen,Monghsu,"72,752","36,242","36,510",99.3
-Shan,Langkho,Langkho,"40,311","20,206","20,105",100.5
-Shan,Langkho,Mongnai,"39,436","19,991","19,445",102.8
-Shan,Langkho,Mawkmai,"33,810","16,546","17,264",95.8
-Shan,Langkho,Mongpan,"25,926","13,829","12,097",114.3
-Shan,Lashio,Lashio,"323,405","158,512","164,893",96.1
-Shan,Lashio,Hseni,"56,662","28,604","28,058",101.9
-Shan,Lashio,Mongyai,"59,376","28,391","30,985",91.6
-Shan,Lashio,Tangyan,"172,805","84,023","88,782",94.6
-Shan,Muse,Muse,"171,809","88,402","83,407",106.0
-Shan,Muse,Namhkan,"107,034","51,315","55,719",92.1
-Shan,Muse,Kutkai,"174,652","87,442","87,210",100.3
-Shan,Kyaukme,Kyaukme,"172,109","82,749","89,360",92.6
-Shan,Kyaukme,Nawnghkio,"149,842","75,761","74,081",102.3
-Shan,Kyaukme,Hsipaw,"176,158","85,836","90,322",95.0
-Shan,Kyaukme,Namtu,"50,423","24,448","25,975",94.1
-Shan,Kyaukme,Namhsan,"72,204","32,708","39,496",82.8
-Shan,Kyaukme,Mongmit,"63,330","31,545","31,785",99.2
-Shan,Kyaukme,Mabein,"47,398","24,494","22,904",106.9
-Shan,Kyaukme,Manton,"38,601","18,562","20,039",92.6
-Shan,Kunlong,Kunlong,"58,774","30,900","27,874",110.9
-Shan,Laukkaing,Laukkaing,"94,850","50,033","44,817",111.6
-Shan,Laukkaing,Konkyan,"60,062","31,071","28,991",107.2
-Shan,Hopang,Hopang,"61,100","31,469","29,631",106.2
-Shan,Hopang,Mongmao,"70,683","36,313","34,370",105.7
-Shan,Hopang,Pangwaun,"97,097","48,791","48,306",101.0
-Shan,Matman,Matman,"19,732","10,068","9,664",104.2
-Shan,Matman,Pangsang,"105,972","55,041","50,931",108.1
-Shan,Matman,Narphan,"116,180","59,369","56,811",104.5
-Shan,Kengtung,Kengtung,"171,620","87,779","83,841",104.7
-Shan,Kengtung,Mongkhet,"44,528","22,873","21,655",105.6
-Shan,Kengtung,Mongyang,"107,645","55,075","52,570",104.8
-Shan,Kengtung,Mongla,"43,068","22,266","20,802",107.0
-Shan,Monghsat,Monghsat,"104,649","55,274","49,375",111.9
-Shan,Monghsat,Mongping,"68,833","34,992","33,841",103.4
-Shan,Monghsat,Mongton,"70,089","38,324","31,765",120.6
-Shan,Tachileik,Tachileik,"177,313","90,124","87,189",103.4
-Shan,Monghpyak,Monghpyak,"30,556","16,209","14,347",113.0
-Shan,Monghpyak,Mongyawng,"79,890","41,874","38,016",110.1
-Ayeyarwady,Pathein,Kangyidaunt,"177,990","86,897","91,093",95.4
-Ayeyarwady,Pathein,Kyaunggon,"163,035","78,755","84,280",93.4
-Ayeyarwady,Pathein,Kyonpyaw,"235,727","113,738","121,989",93.2
-Ayeyarwady,Pathein,Ngapudaw,"324,479","163,012","161,467",101.0
-Ayeyarwady,Pathein,Pathein,"380,985","184,804","196,181",94.2
-Ayeyarwady,Pathein,Yegyi,"194,100","92,387","101,713",90.8
-Ayeyarwady,Pathein,Thabaung,"154,400","75,663","78,737",96.1
-Ayeyarwady,Pyapon,Kyaiklat,"193,340","94,837","98,503",96.3
-Ayeyarwady,Pyapon,Dedaye,"202,926","99,614","103,312",96.4
-Ayeyarwady,Pyapon,Pyapon,"314,122","155,606","158,516",98.2
-Ayeyarwady,Pyapon,Bogale,"322,665","159,296","163,369",97.5
-Ayeyarwady,Maubin,Nyaungdon,"215,906","105,713","110,193",95.9
-Ayeyarwady,Maubin,Danubyu,"179,353","85,775","93,578",91.7
-Ayeyarwady,Maubin,Pantanaw,"264,596","128,122","136,474",93.9
-Ayeyarwady,Maubin,Maubin,"314,093","152,940","161,153",94.9
-Ayeyarwady,Myaungmya,Myaungmya,"298,637","145,972","152,665",95.6
-Ayeyarwady,Myaungmya,Wakema,"289,106","140,698","148,408",94.8
-Ayeyarwady,Myaungmya,Einme,"194,101","94,629","99,472",95.1
-Ayeyarwady,Labutta,Mawlamyinegyun,"311,340","153,127","158,213",96.8
-Ayeyarwady,Labutta,Labutta,"315,218","158,912","156,306",101.7
-Ayeyarwady,Hinthada,Kyangin,"96,083","45,623","50,460",90.4
-Ayeyarwady,Hinthada,Zalun,"168,203","79,653","88,550",90.0
-Ayeyarwady,Hinthada,Myanaung,"218,581","102,303","116,278",88.0
-Ayeyarwady,Hinthada,Lemyethna,"103,024","49,661","53,363",93.1
-Ayeyarwady,Hinthada,Hinthada,"338,435","159,694","178,741",89.3
-Ayeyarwady,Hinthada,Ingapu,"214,384","102,377","112,007",91.4
-Nay Pyi Taw,Nay Pyi Taw (North),Tatkon,"217,093","103,715","113,378",91.5
-Nay Pyi Taw,Nay Pyi Taw (North),Zay Yar Thi Ri,"111,293","55,642","55,651",100
-Nay Pyi Taw,Nay Pyi Taw (North),Oke Ta Ra Thi Ri,"81,620","41,309","40,311",102.5
-Nay Pyi Taw,Nay Pyi Taw (North),Poke Ba Thi Ri,"116,491","57,326","59,165",96.9
-Nay Pyi Taw,Nay Pyi Taw (South),Pyinmana,"187,565","90,731","96,834",93.7
-Nay Pyi Taw,Nay Pyi Taw (South),Lewe,"284,393","138,135","146,258",94.4
-Nay Pyi Taw,Nay Pyi Taw (South),Za Bu Thi Ri,"110,459","51,247","59,212",86.5
-Nay Pyi Taw,Nay Pyi Taw (South),Det Khi Na Thi Ri ,"51,328","27,050","24,278",111.4
+State_Region,District,Township,Both sexes,Male,Female,Sex ratio
+Kachin,Myitkyina,Myitkyina," 317,604 "," 154,047 "," 163,557 ",94.2
+Kachin,Myitkyina,Waingmaw," 125,544 "," 62,465 "," 63,079 ",99
+Kachin,Myitkyina,Injangyang," 1,732 ", 946 , 786 ,120.4
+Kachin,Myitkyina,Tanai," 60,019 "," 31,979 "," 28,040 ",114
+Kachin,Myitkyina,Chipwi," 20,039 "," 10,300 "," 9,739 ",105.8
+Kachin,Myitkyina,Tsawlaw," 6,518 "," 3,351 "," 3,167 ",105.8
+Kachin,Mohnyin,Mohnyin," 209,292 "," 101,598 "," 107,694 ",94.3
+Kachin,Mohnyin,Mogaung," 132,608 "," 63,501 "," 69,107 ",91.9
+Kachin,Mohnyin,Hpakant," 331,708 "," 210,723 "," 120,985 ",174.2
+Kachin,Bhamo,Bhamo," 135,877 "," 66,718 "," 69,159 ",96.5
+Kachin,Bhamo,Shwegu," 94,784 "," 47,174 "," 47,610 ",99.1
+Kachin,Bhamo,Momauk," 62,914 "," 31,029 "," 31,885 ",97.3
+Kachin,Bhamo,Mansi," 52,945 "," 26,156 "," 26,789 ",97.6
+Kachin,Puta-O,Puta-O," 61,075 "," 30,162 "," 30,913 ",97.6
+Kachin,Puta-O,Sumprabum," 2,546 "," 1,291 "," 1,255 ",102.9
+Kachin,Puta-O,Machanbaw," 8,858 "," 4,455 "," 4,403 ",101.2
+Kachin,Puta-O,Khaunglanhpu," 11,655 "," 5,855 "," 5,800 ",100.9
+Kachin,Puta-O,Nawngmun," 7,123 "," 3,603 "," 3,520 ",102.4
+Kayah,Loikaw,Loikaw," 128,401 "," 63,109 "," 65,292 ",96.7
+Kayah,Loikaw,Demoso," 79,201 "," 38,936 "," 40,265 ",96.7
+Kayah,Loikaw,Hpruso," 29,374 "," 14,437 "," 14,937 ",96.7
+Kayah,Loikaw,Shadaw," 6,742 "," 3,351 "," 3,391 ",98.8
+Kayah,Bawlake,Bawlakhe," 10,996 "," 6,072 "," 4,924 ",123.3
+Kayah,Bawlake,Hpasawng," 25,594 "," 13,906 "," 11,688 ",119
+Kayah,Bawlake,Mese," 6,319 "," 3,402 "," 2,917 ",116.6
+Kayin,Hpa-An,Hpa-An," 421,575 "," 203,910 "," 217,665 ",93.7
+Kayin,Hpa-An,Hlaingbwe," 265,883 "," 129,900 "," 135,983 ",95.5
+Kayin,Hpa-An,Thandaunggyi," 96,052 "," 48,517 "," 47,535 ",102.1
+Kayin,Hpapun,Hpapun," 35,085 "," 17,983 "," 17,102 ",105.2
+Kayin,Myawaddy,Myawaddy," 210,540 "," 107,607 "," 102,933 ",104.5
+Kayin,Kawkareik,Kawkareik," 220,342 "," 105,524 "," 114,818 ",91.9
+Kayin,Kawkareik,Kyainseikgyi," 254,849 "," 125,686 "," 129,163 ",97.3
+Chin,Hakha,Hakha," 48,352 "," 23,022 "," 25,330 ",90.9
+Chin,Hakha,Thantlang," 50,374 "," 24,379 "," 25,995 ",93.8
+Chin,Falam,Falam," 48,077 "," 23,623 "," 24,454 ",96.6
+Chin,Falam,Tedim," 87,623 "," 41,927 "," 45,696 ",91.8
+Chin,Falam,Tonzang," 31,878 "," 15,692 "," 16,186 ",96.9
+Chin,Mindat,Mindat," 42,600 "," 19,727 "," 22,873 ",86.2
+Chin,Mindat,Matupi," 51,351 "," 24,151 "," 27,200 ",88.8
+Chin,Mindat,Kanpetlet," 21,493 "," 10,313 "," 11,180 ",92.2
+Chin,Mindat,Paletwa," 97,053 "," 46,770 "," 50,283 ",93
+Sagaing,Sagaing,Sagaing," 307,194 "," 143,420 "," 163,774 ",87.6
+Sagaing,Sagaing,Myinmu," 106,986 "," 48,949 "," 58,037 ",84.3
+Sagaing,Sagaing,Myaung," 106,411 "," 47,677 "," 58,734 ",81.2
+Sagaing,Shwebo,Shwebo," 266,807 "," 123,636 "," 143,171 ",86.4
+Sagaing,Shwebo,Khin-U," 146,457 "," 67,929 "," 78,528 ",86.5
+Sagaing,Shwebo,Wetlet," 196,216 "," 90,089 "," 106,127 ",84.9
+Sagaing,Shwebo,Kanbalu," 295,561 "," 139,944 "," 155,617 ",89.9
+Sagaing,Shwebo,Kyunhla," 104,087 "," 51,125 "," 52,962 ",96.5
+Sagaing,Shwebo,Ye-U," 118,290 "," 51,422 "," 66,868 ",76.9
+Sagaing,Shwebo,Tabayin," 140,815 "," 64,396 "," 76,419 ",84.3
+Sagaing,Shwebo,Taze," 165,110 "," 72,475 "," 92,635 ",78.2
+Sagaing,Monywa,Monywa," 372,095 "," 171,951 "," 200,144 ",85.9
+Sagaing,Monywa,Budalin," 123,539 "," 55,106 "," 68,433 ",80.5
+Sagaing,Monywa,Ayadaw," 155,769 "," 70,734 "," 85,035 ",83.2
+Sagaing,Monywa,Chaung-U," 105,955 "," 48,456 "," 57,499 ",84.3
+Sagaing,Katha,Katha," 167,734 "," 82,325 "," 85,409 ",96.4
+Sagaing,Katha,Indaw," 120,266 "," 56,814 "," 63,452 ",89.5
+Sagaing,Katha,Tigyaing," 129,955 "," 63,736 "," 66,219 ",96.3
+Sagaing,Katha,Banmauk," 112,668 "," 57,195 "," 55,473 ",103.1
+Sagaing,Katha,Kawlin," 145,297 "," 69,782 "," 75,515 ",92.4
+Sagaing,Katha,Wuntho," 73,395 "," 35,465 "," 37,930 ",93.5
+Sagaing,Katha,Pinlebu," 111,968 "," 52,393 "," 59,575 ",87.9
+Sagaing,Kale,Kale," 348,573 "," 167,558 "," 181,015 ",92.6
+Sagaing,Kale,Kalewa," 56,432 "," 27,715 "," 28,717 ",96.5
+Sagaing,Kale,Mingin," 104,363 "," 50,171 "," 54,192 ",92.6
+Sagaing,Tamu,Tamu," 114,869 "," 57,007 "," 57,862 ",98.5
+Sagaing,Mawlaik,Mawlaik," 51,314 "," 25,055 "," 26,259 ",95.4
+Sagaing,Mawlaik,Paungbyin," 112,694 "," 53,869 "," 58,825 ",91.6
+Sagaing,Hkamti,Hkamti," 47,658 "," 26,916 "," 20,742 ",129.8
+Sagaing,Hkamti,Homalin," 258,206 "," 133,750 "," 124,456 ",107.5
+Sagaing,Hkamti,Lay Shi," 10,491 "," 5,204 "," 5,287 ",98.4
+Sagaing,Hkamti,Lahe," 54,357 "," 27,025 "," 27,332 ",98.9
+Sagaing,Hkamti,Nanyun," 51,980 "," 26,683 "," 25,297 ",105.5
+Sagaing,Yinmabin,Yinmabin," 141,480 "," 65,974 "," 75,506 ",87.4
+Sagaing,Yinmabin,Salingyi," 121,808 "," 55,729 "," 66,079 ",84.3
+Sagaing,Yinmabin,Pale," 144,006 "," 66,809 "," 77,197 ",86.5
+Sagaing,Yinmabin,Kani," 134,541 "," 62,465 "," 72,076 ",86.7
+Tanintharyi,Dawei,Dawei," 146,964 "," 70,653 "," 76,311 ",92.6
+Tanintharyi,Dawei,Launglon," 118,317 "," 55,558 "," 62,759 ",88.5
+Tanintharyi,Dawei,Thayetchaung," 105,662 "," 50,421 "," 55,241 ",91.3
+Tanintharyi,Dawei,Yebyu," 122,633 "," 62,441 "," 60,192 ",103.7
+Tanintharyi,Myeik,Myeik," 284,489 "," 139,592 "," 144,897 ",96.3
+Tanintharyi,Myeik,Kyunsu," 171,753 "," 87,777 "," 83,976 ",104.5
+Tanintharyi,Myeik,Palaw," 129,992 "," 63,485 "," 66,507 ",95.5
+Tanintharyi,Myeik,Tanintharyi," 106,853 "," 54,817 "," 52,036 ",105.3
+Tanintharyi,Kawthoung,Kawthoung," 140,020 "," 72,163 "," 67,857 ",106.3
+Tanintharyi,Kawthoung,Bokpyin," 81,718 "," 43,712 "," 38,006 ",115
+Bago,Bago,Bago," 491,434 "," 235,529 "," 255,905 ",92
+Bago,Bago,Thanatpin," 145,287 "," 69,136 "," 76,151 ",90.8
+Bago,Bago,Kawa," 197,363 "," 93,804 "," 103,559 ",90.6
+Bago,Bago,Waw," 176,014 "," 83,699 "," 92,315 ",90.7
+Bago,Bago,Nyaunglebin," 199,483 "," 94,464 "," 105,019 ",89.9
+Bago,Bago,Kyauktaga," 251,212 "," 120,024 "," 131,188 ",91.5
+Bago,Bago,Daik-U," 202,530 "," 96,362 "," 106,168 ",90.8
+Bago,Bago,Shwegyin," 107,462 "," 53,092 "," 54,370 ",97.6
+Bago,Taungoo,Taungoo," 262,056 "," 125,142 "," 136,914 ",91.4
+Bago,Taungoo,Yedashe," 213,593 "," 103,298 "," 110,295 ",93.7
+Bago,Taungoo,Kyaukkyi," 113,329 "," 54,287 "," 59,042 ",91.9
+Bago,Taungoo,Phyu," 257,273 "," 121,123 "," 136,150 ",89
+Bago,Taungoo,Oktwin," 159,828 "," 75,381 "," 84,447 ",89.3
+Bago,Taungoo,Htantabin," 117,276 "," 55,333 "," 61,943 ",89.3
+Bago,Pyay,Pyay," 251,643 "," 119,670 "," 131,973 ",90.7
+Bago,Pyay,Paukkhaung," 124,856 "," 60,941 "," 63,915 ",95.3
+Bago,Pyay,Padaung," 144,214 "," 69,284 "," 74,930 ",92.5
+Bago,Pyay,Paungde," 137,561 "," 66,212 "," 71,349 ",92.8
+Bago,Pyay,Thegon," 130,957 "," 61,807 "," 69,150 ",89.4
+Bago,Pyay,Shwedaung," 121,671 "," 56,637 "," 65,034 ",87.1
+Bago,Thayarwady,Thayarwady," 151,104 "," 72,772 "," 78,332 ",92.9
+Bago,Thayarwady,Letpadan," 177,407 "," 84,396 "," 93,011 ",90.7
+Bago,Thayarwady,Minhla," 122,491 "," 58,577 "," 63,914 ",91.6
+Bago,Thayarwady,Okpho," 126,662 "," 60,705 "," 65,957 ",92
+Bago,Thayarwady,Zigon," 67,523 "," 32,167 "," 35,356 ",91
+Bago,Thayarwady,Nattalin," 172,141 "," 82,083 "," 90,058 ",91.1
+Bago,Thayarwady,Monyo," 127,570 "," 60,664 "," 66,906 ",90.7
+Bago,Thayarwady,Gyobingauk," 117,433 "," 55,749 "," 61,684 ",90.4
+Magway,Magway,Magway," 289,247 "," 135,103 "," 154,144 ",87.6
+Magway,Magway,Yenangyaung," 134,227 "," 60,228 "," 73,999 ",81.4
+Magway,Magway,Chauk," 185,189 "," 82,385 "," 102,804 ",80.1
+Magway,Magway,Taungdwingyi," 259,860 "," 122,706 "," 137,154 ",89.5
+Magway,Magway,Myothit," 159,511 "," 74,039 "," 85,472 ",86.6
+Magway,Magway,Natmauk," 206,996 "," 92,774 "," 114,222 ",81.2
+Magway,Minbu,Minbu," 188,182 "," 88,262 "," 99,920 ",88.3
+Magway,Minbu,Pwintbyu," 163,692 "," 76,740 "," 86,952 ",88.3
+Magway,Minbu,Ngape," 52,142 "," 25,075 "," 27,067 ",92.6
+Magway,Minbu,Salin," 236,033 "," 108,725 "," 127,308 ",85.4
+Magway,Minbu,Sidoktaya," 47,526 "," 23,338 "," 24,188 ",96.5
+Magway,Thayet,Thayet," 104,347 "," 49,385 "," 54,962 ",89.9
+Magway,Thayet,Minhla," 146,082 "," 73,133 "," 72,949 ",100.3
+Magway,Thayet,Mindon," 59,357 "," 27,961 "," 31,396 ",89.1
+Magway,Thayet,Kamma," 75,195 "," 35,854 "," 39,341 ",91.1
+Magway,Thayet,Aunglan," 235,222 "," 111,765 "," 123,457 ",90.5
+Magway,Thayet,Sinbaungwe," 117,844 "," 55,789 "," 62,055 ",89.9
+Magway,Pakokku,Pakokku," 290,139 "," 130,741 "," 159,398 ",82
+Magway,Pakokku,Yesagyo," 215,352 "," 94,353 "," 120,999 ",78
+Magway,Pakokku,Myaing," 225,771 "," 100,854 "," 124,917 ",80.7
+Magway,Pakokku,Pauk," 171,514 "," 79,030 "," 92,484 ",85.5
+Magway,Pakokku,Seikphyu," 102,769 "," 46,909 "," 55,860 ",84
+Magway,Gangaw,Gangaw," 133,295 "," 63,420 "," 69,875 ",90.8
+Magway,Gangaw,Tilin," 48,866 "," 22,859 "," 26,007 ",87.9
+Magway,Gangaw,Saw," 68,697 "," 32,546 "," 36,151 ",90
+Mandalay,Mandalay,Aungmyaythazan," 265,779 "," 129,959 "," 135,820 ",95.7
+Mandalay,Mandalay,Chanayethazan," 197,175 "," 93,245 "," 103,930 ",89.7
+Mandalay,Mandalay,Mahaaungmyay," 241,113 "," 116,903 "," 124,210 ",94.1
+Mandalay,Mandalay,Chanmyathazi," 283,781 "," 137,528 "," 146,253 ",94
+Mandalay,Mandalay,Pyigyitagon," 237,698 "," 120,794 "," 116,904 ",103.3
+Mandalay,Mandalay,Amarapura," 237,618 "," 114,481 "," 123,137 ",93
+Mandalay,Mandalay,Patheingyi," 263,725 "," 129,004 "," 134,721 ",95.8
+Mandalay,Pyinoolwin,Pyinoolwin," 255,508 "," 128,027 "," 127,481 ",100.4
+Mandalay,Pyinoolwin,Madaya," 258,001 "," 122,879 "," 135,122 ",90.9
+Mandalay,Pyinoolwin,Singu," 157,585 "," 76,774 "," 80,811 ",95
+Mandalay,Pyinoolwin,Mogoke," 167,149 "," 84,892 "," 82,257 ",103.2
+Mandalay,Pyinoolwin,Thabeikkyin," 163,702 "," 83,228 "," 80,474 ",103.4
+Mandalay,Kyaukse,Kyaukse," 257,907 "," 124,539 "," 133,368 ",93.4
+Mandalay,Kyaukse,Sintgaing," 148,918 "," 71,161 "," 77,757 ",91.5
+Mandalay,Kyaukse,Myittha," 195,629 "," 92,672 "," 102,957 ",90
+Mandalay,Kyaukse,Tada-U," 138,617 "," 64,754 "," 73,863 ",87.7
+Mandalay,Myingyan,Myingyan," 276,096 "," 124,100 "," 151,996 ",81.6
+Mandalay,Myingyan,Taungtha," 216,642 "," 97,161 "," 119,481 ",81.3
+Mandalay,Myingyan,Natogyi," 177,078 "," 80,848 "," 96,230 ",84
+Mandalay,Myingyan,Kyaukpadaung," 261,908 "," 116,625 "," 145,283 ",80.3
+Mandalay,Myingyan,Ngazun," 124,233 "," 56,669 "," 67,564 ",83.9
+Mandalay,Nyaung-U,Nyaung-U," 239,947 "," 109,476 "," 130,471 ",83.9
+Mandalay,Yamethin,Yamethin," 258,091 "," 125,368 "," 132,723 ",94.5
+Mandalay,Yamethin,Pyawbwe," 260,293 "," 119,235 "," 141,058 ",84.5
+Mandalay,Meiktila,Meiktila," 309,663 "," 142,787 "," 166,876 ",85.6
+Mandalay,Meiktila,Mahlaing," 139,427 "," 63,581 "," 75,846 ",83.8
+Mandalay,Meiktila,Thazi," 202,680 "," 95,463 "," 107,217 ",89
+Mandalay,Meiktila,Wundwin," 229,760 "," 106,214 "," 123,546 ",86
+Mon,Mawlamyine,Mawlamyine," 289,388 "," 139,026 "," 150,362 ",92.5
+Mon,Mawlamyine,Kyaikmaraw," 195,810 "," 92,746 "," 103,064 ",90
+Mon,Mawlamyine,Chaungzon," 122,126 "," 55,596 "," 66,530 ",83.6
+Mon,Mawlamyine,Thanbyuzayat," 170,536 "," 81,449 "," 89,087 ",91.4
+Mon,Mawlamyine,Mudon," 190,737 "," 89,976 "," 100,761 ",89.3
+Mon,Mawlamyine,Ye," 263,624 "," 128,883 "," 134,741 ",95.7
+Mon,Thaton,Thaton," 238,106 "," 116,394 "," 121,712 ",95.6
+Mon,Thaton,Paung," 218,459 "," 105,371 "," 113,088 ",93.2
+Mon,Thaton,Kyaikto," 184,532 "," 90,031 "," 94,501 ",95.3
+Mon,Thaton,Bilin," 181,075 "," 87,920 "," 93,155 ",94.4
+Rakhine,Sittwe,Sittwe," 147,899 "," 70,470 "," 77,429 ",91
+Rakhine,Sittwe,Ponnagyun," 129,753 "," 59,979 "," 69,774 ",86
+Rakhine,Sittwe,Pauktaw," 145,957 "," 68,195 "," 77,762 ",87.7
+Rakhine,Sittwe,Rathedaung," 111,974 "," 50,026 "," 61,948 ",80.8
+Rakhine,Mrauk-U,Mrauk-U," 189,630 "," 87,674 "," 101,956 ",86
+Rakhine,Mrauk-U,Kyauktaw," 173,100 "," 78,041 "," 95,059 ",82.1
+Rakhine,Mrauk-U,Minbya," 169,208 "," 78,875 "," 90,333 ",87.3
+Rakhine,Mrauk-U,Myebon," 137,193 "," 65,359 "," 71,834 ",91
+Rakhine,Maungdaw,Maungdaw," 40,785 "," 21,098 "," 19,687 ",107.2
+Rakhine,Maungdaw,Buthidaung," 55,545 "," 27,718 "," 27,827 ",99.6
+Rakhine,Kyaukpyu,Kyaukpyu," 165,352 "," 78,762 "," 86,590 ",91
+Rakhine,Kyaukpyu,Munaung," 56,966 "," 24,957 "," 32,009 ",78
+Rakhine,Kyaukpyu,Ramree," 97,891 "," 44,766 "," 53,125 ",84.3
+Rakhine,Kyaukpyu,Ann," 119,714 "," 58,823 "," 60,891 ",96.6
+Rakhine,Thandwe,Thandwe," 133,484 "," 65,122 "," 68,362 ",95.3
+Rakhine,Thandwe,Toungup," 158,341 "," 77,257 "," 81,084 ",95.3
+Rakhine,Thandwe,Gwa," 66,015 "," 32,580 "," 33,435 ",97.4
+Yangon,Yangon (North),Insein," 305,283 "," 146,158 "," 159,125 ",91.9
+Yangon,Yangon (North),Mingaladon," 331,586 "," 158,259 "," 173,327 ",91.3
+Yangon,Yangon (North),Hmawbi," 244,607 "," 120,931 "," 123,676 ",97.8
+Yangon,Yangon (North),Hlegu," 270,741 "," 134,087 "," 136,654 ",98.1
+Yangon,Yangon (North),Taikkyi," 277,268 "," 134,714 "," 142,554 ",94.5
+Yangon,Yangon (North),Htantabin," 145,792 "," 71,807 "," 73,985 ",97.1
+Yangon,Yangon (North),Shwepyithar," 343,526 "," 164,264 "," 179,262 ",91.6
+Yangon,Yangon (North),Hlaingtharya," 687,867 "," 322,862 "," 365,005 ",88.5
+Yangon,Yangon (East),Thingangyun," 209,486 "," 98,698 "," 110,788 ",89.1
+Yangon,Yangon (East),Yankin," 70,946 "," 32,724 "," 38,222 ",85.6
+Yangon,Yangon (East),South Okkalapa," 161,126 "," 75,547 "," 85,579 ",88.3
+Yangon,Yangon (East),North Okkalapa," 333,293 "," 156,340 "," 176,953 ",88.4
+Yangon,Yangon (East),Thaketa," 220,556 "," 107,290 "," 113,266 ",94.7
+Yangon,Yangon (East),Dawbon," 75,325 "," 36,745 "," 38,580 ",95.2
+Yangon,Yangon (East),Tamwe," 165,313 "," 74,662 "," 90,651 ",82.4
+Yangon,Yangon (East),Pazundaung," 48,455 "," 22,131 "," 26,324 ",84.1
+Yangon,Yangon (East),Botahtaung," 40,995 "," 19,416 "," 21,579 ",90
+Yangon,Yangon (East),Dagon Myothit (South)," 371,646 "," 181,140 "," 190,506 ",95.1
+Yangon,Yangon (East),Dagon Myothit (North)," 203,948 "," 96,388 "," 107,560 ",89.6
+Yangon,Yangon (East),Dagon Myothit (East)," 165,628 "," 80,861 "," 84,767 ",95.4
+Yangon,Yangon (East),Dagon Myothit (Seikkan)," 167,448 "," 82,697 "," 84,751 ",97.6
+Yangon,Yangon (East),Mingalartaungnyunt," 132,494 "," 62,530 "," 69,964 ",89.4
+Yangon,Yangon (South),Thanlyin," 268,063 "," 130,537 "," 137,526 ",94.9
+Yangon,Yangon (South),Kyauktan," 167,448 "," 81,456 "," 85,992 ",94.7
+Yangon,Yangon (South),Thongwa," 157,876 "," 75,492 "," 82,384 ",91.6
+Yangon,Yangon (South),Kayan," 158,019 "," 75,510 "," 82,509 ",91.5
+Yangon,Yangon (South),Twantay," 226,836 "," 111,251 "," 115,585 ",96.3
+Yangon,Yangon (South),Kawhmu," 119,050 "," 58,299 "," 60,751 ",96
+Yangon,Yangon (South),Kungyangon," 111,632 "," 54,107 "," 57,525 ",94.1
+Yangon,Yangon (South),Dala," 172,857 "," 84,671 "," 88,186 ",96
+Yangon,Yangon (South),Seikgyikanaungto," 34,003 "," 17,068 "," 16,935 ",100.8
+Yangon,Yangon (South),Cocokyun," 1,940 "," 1,294 ", 646 ,200.3
+Yangon,Yangon (West),Kyauktada," 29,853 "," 13,777 "," 16,076 ",85.7
+Yangon,Yangon (West),Pabedan," 33,336 "," 15,171 "," 18,165 ",83.5
+Yangon,Yangon (West),Lanmadaw," 47,160 "," 20,180 "," 26,980 ",74.8
+Yangon,Yangon (West),Latha," 25,057 "," 10,728 "," 14,329 ",74.9
+Yangon,Yangon (West),Ahlone," 55,482 "," 25,551 "," 29,931 ",85.4
+Yangon,Yangon (West),Kyeemyindaing," 111,514 "," 52,627 "," 58,887 ",89.4
+Yangon,Yangon (West),Sanchaung," 99,619 "," 43,993 "," 55,626 ",79.1
+Yangon,Yangon (West),Hlaing," 160,307 "," 75,029 "," 85,278 ",88
+Yangon,Yangon (West),Kamaryut," 84,569 "," 36,958 "," 47,611 ",77.6
+Yangon,Yangon (West),Mayangone," 198,113 "," 93,392 "," 104,721 ",89.2
+Yangon,Yangon (West),Dagon," 25,082 "," 11,846 "," 13,236 ",89.5
+Yangon,Yangon (West),Bahan," 96,732 "," 45,518 "," 51,214 ",88.9
+Yangon,Yangon (West),Seikkan," 2,826 "," 1,697 "," 1,129 ",150.3
+Shan,Taunggyi,Taunggyi," 438,056 "," 213,200 "," 224,856 ",94.8
+Shan,Taunggyi,Nyaungshwe," 189,407 "," 94,537 "," 94,870 ",99.6
+Shan,Taunggyi,Hopong," 112,348 "," 55,535 "," 56,813 ",97.8
+Shan,Taunggyi,Hsihseng," 153,032 "," 74,736 "," 78,296 ",95.5
+Shan,Taunggyi,Kalaw," 186,083 "," 93,092 "," 92,991 ",100.1
+Shan,Taunggyi,Pindaya," 79,303 "," 38,468 "," 40,835 ",94.2
+Shan,Taunggyi,Ywangan," 82,532 "," 41,049 "," 41,483 ",99
+Shan,Taunggyi,Lawksawk," 164,730 "," 84,326 "," 80,404 ",104.9
+Shan,Taunggyi,Pinlaung," 192,257 "," 95,358 "," 96,899 ",98.4
+Shan,Taunggyi,Pekon," 103,590 "," 52,293 "," 51,297 ",101.9
+Shan,Loilen,Loilen," 124,557 "," 60,559 "," 63,998 ",94.6
+Shan,Loilen,Laihka," 48,831 "," 23,646 "," 25,185 ",93.9
+Shan,Loilen,Nansang," 116,961 "," 59,291 "," 57,670 ",102.8
+Shan,Loilen,Kunhing," 53,403 "," 26,623 "," 26,780 ",99.4
+Shan,Loilen,Kyethi," 74,364 "," 35,424 "," 38,940 ",91
+Shan,Loilen,Mongkaing," 74,294 "," 35,122 "," 39,172 ",89.7
+Shan,Loilen,Monghsu," 72,752 "," 36,242 "," 36,510 ",99.3
+Shan,Langkho,Langkho," 40,311 "," 20,206 "," 20,105 ",100.5
+Shan,Langkho,Mongnai," 39,436 "," 19,991 "," 19,445 ",102.8
+Shan,Langkho,Mawkmai," 33,810 "," 16,546 "," 17,264 ",95.8
+Shan,Langkho,Mongpan," 25,926 "," 13,829 "," 12,097 ",114.3
+Shan,Lashio,Lashio," 323,405 "," 158,512 "," 164,893 ",96.1
+Shan,Lashio,Hseni," 56,662 "," 28,604 "," 28,058 ",101.9
+Shan,Lashio,Mongyai," 59,376 "," 28,391 "," 30,985 ",91.6
+Shan,Lashio,Tangyan," 172,805 "," 84,023 "," 88,782 ",94.6
+Shan,Muse,Muse," 171,809 "," 88,402 "," 83,407 ",106
+Shan,Muse,Namhkan," 107,034 "," 51,315 "," 55,719 ",92.1
+Shan,Muse,Kutkai," 174,652 "," 87,442 "," 87,210 ",100.3
+Shan,Kyaukme,Kyaukme," 172,109 "," 82,749 "," 89,360 ",92.6
+Shan,Kyaukme,Nawnghkio," 149,842 "," 75,761 "," 74,081 ",102.3
+Shan,Kyaukme,Hsipaw," 176,158 "," 85,836 "," 90,322 ",95
+Shan,Kyaukme,Namtu," 50,423 "," 24,448 "," 25,975 ",94.1
+Shan,Kyaukme,Namhsan," 72,204 "," 32,708 "," 39,496 ",82.8
+Shan,Kyaukme,Mongmit," 63,330 "," 31,545 "," 31,785 ",99.2
+Shan,Kyaukme,Mabein," 47,398 "," 24,494 "," 22,904 ",106.9
+Shan,Kyaukme,Manton," 38,601 "," 18,562 "," 20,039 ",92.6
+Shan,Kunlong,Kunlong," 58,774 "," 30,900 "," 27,874 ",110.9
+Shan,Laukkaing,Laukkaing," 94,850 "," 50,033 "," 44,817 ",111.6
+Shan,Laukkaing,Konkyan," 60,062 "," 31,071 "," 28,991 ",107.2
+Shan,Hopang,Hopang," 61,100 "," 31,469 "," 29,631 ",106.2
+Shan,Hopang,Mongmao," 70,683 "," 36,313 "," 34,370 ",105.7
+Shan,Hopang,Pangwaun," 97,097 "," 48,791 "," 48,306 ",101
+Shan,Matman,Matman," 19,732 "," 10,068 "," 9,664 ",104.2
+Shan,Matman,Pangsang," 105,972 "," 55,041 "," 50,931 ",108.1
+Shan,Matman,Narphan," 116,180 "," 59,369 "," 56,811 ",104.5
+Shan,Kengtung,Kengtung," 171,620 "," 87,779 "," 83,841 ",104.7
+Shan,Kengtung,Mongkhet," 44,528 "," 22,873 "," 21,655 ",105.6
+Shan,Kengtung,Mongyang," 107,645 "," 55,075 "," 52,570 ",104.8
+Shan,Kengtung,Mongla," 43,068 "," 22,266 "," 20,802 ",107
+Shan,Monghsat,Monghsat," 104,649 "," 55,274 "," 49,375 ",111.9
+Shan,Monghsat,Mongping," 68,833 "," 34,992 "," 33,841 ",103.4
+Shan,Monghsat,Mongton," 70,089 "," 38,324 "," 31,765 ",120.6
+Shan,Tachileik,Tachileik," 177,313 "," 90,124 "," 87,189 ",103.4
+Shan,Monghpyak,Monghpyak," 30,556 "," 16,209 "," 14,347 ",113
+Shan,Monghpyak,Mongyawng," 79,890 "," 41,874 "," 38,016 ",110.1
+Ayeyarwady,Pathein,Kangyidaunt," 177,990 "," 86,897 "," 91,093 ",95.4
+Ayeyarwady,Pathein,Kyaunggon," 163,035 "," 78,755 "," 84,280 ",93.4
+Ayeyarwady,Pathein,Kyonpyaw," 235,727 "," 113,738 "," 121,989 ",93.2
+Ayeyarwady,Pathein,Ngapudaw," 324,479 "," 163,012 "," 161,467 ",101
+Ayeyarwady,Pathein,Pathein," 380,985 "," 184,804 "," 196,181 ",94.2
+Ayeyarwady,Pathein,Yegyi," 194,100 "," 92,387 "," 101,713 ",90.8
+Ayeyarwady,Pathein,Thabaung," 154,400 "," 75,663 "," 78,737 ",96.1
+Ayeyarwady,Pyapon,Kyaiklat," 193,340 "," 94,837 "," 98,503 ",96.3
+Ayeyarwady,Pyapon,Dedaye," 202,926 "," 99,614 "," 103,312 ",96.4
+Ayeyarwady,Pyapon,Pyapon," 314,122 "," 155,606 "," 158,516 ",98.2
+Ayeyarwady,Pyapon,Bogale," 322,665 "," 159,296 "," 163,369 ",97.5
+Ayeyarwady,Maubin,Nyaungdon," 215,906 "," 105,713 "," 110,193 ",95.9
+Ayeyarwady,Maubin,Danubyu," 179,353 "," 85,775 "," 93,578 ",91.7
+Ayeyarwady,Maubin,Pantanaw," 264,596 "," 128,122 "," 136,474 ",93.9
+Ayeyarwady,Maubin,Maubin," 314,093 "," 152,940 "," 161,153 ",94.9
+Ayeyarwady,Myaungmya,Myaungmya," 298,637 "," 145,972 "," 152,665 ",95.6
+Ayeyarwady,Myaungmya,Wakema," 289,106 "," 140,698 "," 148,408 ",94.8
+Ayeyarwady,Myaungmya,Einme," 194,101 "," 94,629 "," 99,472 ",95.1
+Ayeyarwady,Labutta,Mawlamyinegyun," 311,340 "," 153,127 "," 158,213 ",96.8
+Ayeyarwady,Labutta,Labutta," 315,218 "," 158,912 "," 156,306 ",101.7
+Ayeyarwady,Hinthada,Kyangin," 96,083 "," 45,623 "," 50,460 ",90.4
+Ayeyarwady,Hinthada,Zalun," 168,203 "," 79,653 "," 88,550 ",90
+Ayeyarwady,Hinthada,Myanaung," 218,581 "," 102,303 "," 116,278 ",88
+Ayeyarwady,Hinthada,Lemyethna," 103,024 "," 49,661 "," 53,363 ",93.1
+Ayeyarwady,Hinthada,Hinthada," 338,435 "," 159,694 "," 178,741 ",89.3
+Ayeyarwady,Hinthada,Ingapu," 214,384 "," 102,377 "," 112,007 ",91.4
+Nay Pyi Taw,Nay Pyi Taw (North),Tatkon," 217,093 "," 103,715 "," 113,378 ",91.5
+Nay Pyi Taw,Nay Pyi Taw (North),Zay Yar Thi Ri," 111,293 "," 55,642 "," 55,651 ",100
+Nay Pyi Taw,Nay Pyi Taw (North),Oke Ta Ra Thi Ri," 81,620 "," 41,309 "," 40,311 ",102.5
+Nay Pyi Taw,Nay Pyi Taw (North),Poke Ba Thi Ri," 116,491 "," 57,326 "," 59,165 ",96.9
+Nay Pyi Taw,Nay Pyi Taw (South),Pyinmana," 187,565 "," 90,731 "," 96,834 ",93.7
+Nay Pyi Taw,Nay Pyi Taw (South),Lewe," 284,393 "," 138,135 "," 146,258 ",94.4
+Nay Pyi Taw,Nay Pyi Taw (South),Za Bu Thi Ri," 110,459 "," 51,247 "," 59,212 ",86.5
+Nay Pyi Taw,Nay Pyi Taw (South),Det Khi Na Thi Ri ," 51,328 "," 27,050 "," 24,278 ",111.4
