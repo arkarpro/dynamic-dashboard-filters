@@ -53,9 +53,9 @@ with col2:
 st.markdown("""
 နောက်ထပ် လုပ်ဆောင်သွားမယ့်အကြောင်းကတော့ —
 
-[Titanic Dashboard] (https://titanic-eda-dashboard-dkd68fsawayaumwjkkow85.streamlit.app/)
+[Titanic Dashboard](https://titanic-eda-dashboard-dkd68fsawayaumwjkkow85.streamlit.app/)
 
-နဲ့ [Target vs Actual Dashboard]  (https://targetvsactual-arkarpro.streamlit.app/)  နှစ်ခုကို ပြန်လည်သုံးသပ်ပြီး 
+နဲ့ [Target vs Actual Dashboard](https://targetvsactual-arkarpro.streamlit.app/)  နှစ်ခုကို ပြန်လည်သုံးသပ်ပြီး 
 Data Structure နဲ့ Design တွေကို အသုံးချကာ ပိုမိုပြည့်စုံတဲ့ Dynamic Dashboard တစ်ခုကို အစကနေ တည်ဆောက်သွားဖို့ စီစဉ်ထားပါတယ်။
 
 ထို့အပြင် Social Media Data ကို အခြေခံပြီး Dependent Filters နည်းနဲ့ Dashboard တစ်ခုလည်း တည်ဆောက်ဖို့ စတင်ထားပါတယ်။
@@ -63,7 +63,8 @@ Source Code နဲ့ Demo App တွေလည်း မကြာခင် GitHu
             Data Dashboard လေ့လာနေသူ မိတ်ဆွေတွေအနေနဲ့ လည်း တူတူလုပ်ကြမလား ဆိုတာ စိတ်ဝင်စားနေပါတယ်။
 ချိတ်ဆက်ချင်ရင်၊ တူတူတည်ဆောက်ချင်ရင် LinkedIn / Contact မှာလည်း ဆက်သွယ်နိုင်ပါတယ်နော်။
 
-Info to visit 
+Info to visit
+             
 ➡️ [GitHub - Arkar](https://github.com/arkarpro)  
 ➡️ [LinkedIn - Arkar](https://www.linkedin.com/in/arkar-linn-datapro)
 """)
